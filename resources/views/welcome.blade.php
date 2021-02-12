@@ -81,7 +81,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel News is a community driven portal and newsletter aggregating all of the latest and most important news in the Laravel ecosystem, including new package releases and tutorials.
+                                Laravel News es un portal y un boletín informativo impulsado por la comunidad que agrega todas las noticias más recientes y más importantes del ecosistema de Laravel, incluidos los nuevos lanzamientos de paquetes y tutoriales.
                                 </div>
                             </div>
                         </div>
