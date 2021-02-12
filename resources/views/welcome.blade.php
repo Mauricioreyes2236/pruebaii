@@ -81,7 +81,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                Laravel News es un portal y un boletín informativo impulsado por la comunidad que agrega todas las noticias más recientes y más importantes del ecosistema de Laravel, incluidos los nuevos lanzamientos de paquetes y tutoriales.
+                                El Joda no sabe escoger adecuadamente.
                                 </div>
                             </div>
                         </div>
